@@ -1,0 +1,24 @@
+{
+  "name": "Noto Sans Kaithi",
+  "designer": "Monotype Design team",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 37364,
+  "fonts": [
+    {
+      "name": "Noto Sans Kaithi",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSansKaithi-Regular.ttf",
+      "postScriptName": "NotoSansKaithi",
+      "fullName": "Noto Sans Kaithi",
+      "copyright": "Copyright 2013 Google Inc. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
